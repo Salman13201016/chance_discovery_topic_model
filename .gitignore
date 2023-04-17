@@ -1,0 +1,7 @@
+*.pyc
+*.pdf
+*.png
+.DS_Store
+txt_files/*
+adjacency_list/*
+dot/*
